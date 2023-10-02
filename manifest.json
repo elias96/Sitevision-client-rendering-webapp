@@ -1,0 +1,17 @@
+{
+  "id": "client-side-rendering-webapp",
+  "version": "0.0.1",
+  "name": {
+    "en": "Client rendering app"
+  },
+  "author": "Sitevision ofc",
+  "description": {
+    "en": "Client-side rendering app"
+  },
+  "helpUrl": "https://github.com/elias96",
+  "type": "WebApp",
+  "bundled": true,
+  "requiredLibs": {
+    "react": "17.0.2"
+  }
+}
